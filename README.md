@@ -28,7 +28,7 @@
 [<img align="left" alt="Manvi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-
+[YouTube]:
 [linkedin]: https://www.linkedin.com/in/manvi-kumar-0902699b/
 
 <!--
