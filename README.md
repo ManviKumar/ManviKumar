@@ -5,12 +5,11 @@
 -  <a href="https://replit.com/@manvisood1"> Replit </a>
 
 <h2>👨‍💻 Python Projects</h2>
-- <b>Python</b>
-  - <a href="https://github.com/ManviSood/Python-Projects"> Python Projects </a>
-  - <a href= "https://github.com/ManviSood/CoffeeMachine">Virtual Coffee Machine</a>
-  - <a href="https://replit.com/@manvisood1/blackjack-start?v=1">Black Jack</a>
-  - <a href="https://replit.com/@manvisood1/guess-the-number?v=1"> Guess the Number </a>
-
+- <b>PowerShell</b>
+  - [Practicing Python Projects](https://github.com/ManviSood/Python-Projects)
+  - [Black Jack](https://replit.com/@manvisood1/blackjack-start?v=1)
+  - [Guess The Number](https://replit.com/@manvisood1/guess-the-number?v=1)
+ 
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
