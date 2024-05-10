@@ -15,8 +15,9 @@
   - [Online Shopping System)](https://github.com/ManviSood/online-shopping-system
 
 <h2>👨‍💻 Certifications</h2>
-   - [Devops Engineer, Simplilearn](https://success.simplilearn.com/8e566630-890d-420e-a979-1dc725e55664#gs.sy1sdf)
-   - [Docker Associate, Edureka](https://www.edureka.co/my-certificate/99fc9c6c8ff3c41468c7dc9fcc4a4dca)
+
+- [Devops Engineer, Simplilearn](https://success.simplilearn.com/8e566630-890d-420e-a979-1dc725e55664#gs.sy1sdf)
+- [Docker Associate, Edureka](https://www.edureka.co/my-certificate/99fc9c6c8ff3c41468c7dc9fcc4a4dca)
   
 <h2>📺 Popular YouTube Videos</h2>
 
