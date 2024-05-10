@@ -1,9 +1,15 @@
 <h1>Hi, I'm Manvi Kumar! <br/><a href="https://github.com/ManviKumar">DevOps/Cybersecurity Engineer</a>, <a href="https://www.linkedin.com/in/manvi-kumar-0902699b/"></a></h1>
 
-<h2>👨‍💻 Python Projects</h2>
+<h2>Profiles - To checkout my work!</h2>
+-  <a href="https://github.com/ManviSood"> <b>ManviSood</b></a> ( My other GitHub profile)
+-  <a href="https://replit.com/@manvisood1"> Replit </a>
 
+<h2>👨‍💻 Python Projects</h2>
 - <b>Python</b>
-  - Python Projects(https://github.com/ManviSood/Python-Projects)
+  - <a href="https://github.com/ManviSood/Python-Projects"> Python Projects </a>
+  - <a href= "https://github.com/ManviSood/CoffeeMachine">Virtual Coffee Machine</a>
+  - <a href="https://replit.com/@manvisood1/blackjack-start?v=1">Black Jack</a>
+  - <a href="https://replit.com/@manvisood1/guess-the-number?v=1"> Guess the Number </a>
 
 <h2> 🤳 Connect with me:</h2>
 
