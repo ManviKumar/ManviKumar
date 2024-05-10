@@ -2,6 +2,10 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>Python</b>
+  - [Practicing Python Projects](https://github.com/ManviSood/Python-Projects)
+  - [Black Jack (Replit)](https://replit.com/@manvisood1/blackjack-start?v=1))
+  - [Guess the number (Replit)](https://replit.com/@manvisood1/guess-the-number?v=1)
 - <b>Data Structures and Algorithms Practice</b>
   - [Practicing DS & Algos in Java](https://github.com/)
 - <b>Devops</b>
@@ -9,11 +13,7 @@
 - <b>Web Development (PHP Applications)</b>
   - [Fictional University Project](https://github.com/ManviSood/fictional-university)
   - [Online Shopping System)](https://github.com/ManviSood/online-shopping-system)
-- <b>Python</b>
-  - [Practicing Python Projects](https://github.com/ManviSood/Python-Projects)
-  - [Black Jack (Replit)](https://replit.com/@manvisood1/blackjack-start?v=1))
-  - [Guess the number (Replit)](https://replit.com/@manvisood1/guess-the-number?v=1)
-    
+  
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
