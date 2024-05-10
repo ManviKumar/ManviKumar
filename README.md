@@ -1,4 +1,4 @@
-<h1>Hi, I'm Manvi! <br/><a href="https://github.com/ManviKumar">Programmer</a>, <a href="https://www.linkedin.com/in/manvi-kumar-0902699b/">Devops Engineer</a>, <a href="https://www.linkedin.com/in/manvi-kumar-0902699b/">Cybersecurity Student</a></h1>
+<h1>Hi, I'm Manvi! <br/><a href="https://github.com/ManviKumar">Programmer</a>, <a href="https://www.linkedin.com/in/manvi-kumar-0902699b/">Devops Engineer</a>, <a href="https://www.linkedin.com/in/manvi-kumar-0902699b/">CyberSecurity Student</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
